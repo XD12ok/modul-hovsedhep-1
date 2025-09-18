@@ -1,0 +1,13 @@
+C:\Users\Arsa\source\repos\mdul_HOVSEDEP_18-9-2025\mdul_HOVSEDEP_18-9-2025\bin\Debug\mdul_HOVSEDEP_18-9-2025.exe.config
+C:\Users\Arsa\source\repos\mdul_HOVSEDEP_18-9-2025\mdul_HOVSEDEP_18-9-2025\bin\Debug\mdul_HOVSEDEP_18-9-2025.exe
+C:\Users\Arsa\source\repos\mdul_HOVSEDEP_18-9-2025\mdul_HOVSEDEP_18-9-2025\bin\Debug\mdul_HOVSEDEP_18-9-2025.pdb
+C:\Users\Arsa\source\repos\mdul_HOVSEDEP_18-9-2025\mdul_HOVSEDEP_18-9-2025\obj\Debug\mdul_HOVSEDEP_18-9-2025.csproj.AssemblyReference.cache
+C:\Users\Arsa\source\repos\mdul_HOVSEDEP_18-9-2025\mdul_HOVSEDEP_18-9-2025\obj\Debug\mdul_HOVSEDEP_18_9_2025.Form1.resources
+C:\Users\Arsa\source\repos\mdul_HOVSEDEP_18-9-2025\mdul_HOVSEDEP_18-9-2025\obj\Debug\mdul_HOVSEDEP_18_9_2025.Menu.resources
+C:\Users\Arsa\source\repos\mdul_HOVSEDEP_18-9-2025\mdul_HOVSEDEP_18-9-2025\obj\Debug\mdul_HOVSEDEP_18_9_2025.Properties.Resources.resources
+C:\Users\Arsa\source\repos\mdul_HOVSEDEP_18-9-2025\mdul_HOVSEDEP_18-9-2025\obj\Debug\mdul_HOVSEDEP_18-9-2025.csproj.GenerateResource.cache
+C:\Users\Arsa\source\repos\mdul_HOVSEDEP_18-9-2025\mdul_HOVSEDEP_18-9-2025\obj\Debug\mdul_HOVSEDEP_18-9-2025.csproj.CoreCompileInputs.cache
+C:\Users\Arsa\source\repos\mdul_HOVSEDEP_18-9-2025\mdul_HOVSEDEP_18-9-2025\obj\Debug\mdul_HOVSEDEP_18-9-2025.exe
+C:\Users\Arsa\source\repos\mdul_HOVSEDEP_18-9-2025\mdul_HOVSEDEP_18-9-2025\obj\Debug\mdul_HOVSEDEP_18-9-2025.pdb
+C:\Users\Arsa\source\repos\mdul_HOVSEDEP_18-9-2025\mdul_HOVSEDEP_18-9-2025\obj\Debug\mdul_HOVSEDEP_18_9_2025.HistoryUC.resources
+C:\Users\Arsa\source\repos\mdul_HOVSEDEP_18-9-2025\mdul_HOVSEDEP_18-9-2025\obj\Debug\mdul_HOVSEDEP_18_9_2025.TableSeating.resources
